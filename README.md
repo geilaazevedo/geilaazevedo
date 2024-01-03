@@ -1,11 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#6A5ACD&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=header"/>
 
 ## Bem-vindo(a) ao meu perfil Geila Azevedo ☺️
-
- <div>
-   <a href="https://github.com/geilaazevedo">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geilaazevedo&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geilaazevedo&layout=compact&langs_count=6&theme=swift"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=geilaazevedo&show_icons=true&count_private=6A5ACD&hide_border=6A5ACD&title_color=6A5ACD&icon_color=6A5ACDf&text_color=000000&bg_color=ffffff" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geilaazevedo&layout=compact&hide_border=6A5ACD&title_color=6A5ACD&text_color=000000&bg_color=ffffff" />
 </div>
 
 ### Skills que estou estudando.
@@ -34,4 +32,4 @@
 <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#6A5ACD&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>
