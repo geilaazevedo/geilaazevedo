@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#6A5ACD&height=120&section=header"/>
+
 ## Bem-vindo(a) ao meu perfil Geila Azevedo ☺️
 
  <div>
@@ -26,4 +28,10 @@
 
 ![snake gif](https://github.com/geilaazevedo/geilaazevedo/blob/output/github-contribution-grid-snake.svg)
 
-  
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/geilaazevedo/count.svg" /></p> 
+<br>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#6A5ACD&height=120&section=footer"/>
