@@ -2,7 +2,7 @@
 
 ## Bem-vindo(a) ao meu perfil Geila Azevedo ☺️
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=geilaazevedo&show_icons=true&count_private=6A5ACD&hide_border=6A5ACD&title_color=6A5ACD&icon_color=6A5ACD&text_color=6A5ACD&bg_color=ffffff" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=geilaazevedo&show_icons=true&count_private=6A5ACD&hide_border=6A5ACD&title_color=6A5ACD&icon_color=000000&text_color=6A5ACD&bg_color=ffffff" alt="Geila Azevedo github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geilaazevedo&layout=compact&hide_border=6A5ACD&title_color=6A5ACD&text_color=6A5ACD&bg_color=ffffff" />
 </div>
 
