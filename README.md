@@ -6,7 +6,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geilaazevedo&layout=compact&hide_border=6A5ACD&title_color=6A5ACD&text_color=6A5ACD&bg_color=ffffff" />
 </div>
 
-### Skills que estou estudando.
+### Habilidades que estou estudando.
 <div style="display: inline_block"><br>
  
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
